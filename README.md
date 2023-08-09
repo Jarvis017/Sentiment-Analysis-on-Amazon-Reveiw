@@ -9,7 +9,7 @@ This project uses two deep learning models for sentiment analysis:
 * Simple Neural Network
 
 
-For Bert Implementation, there are two models. First, using Bert Pretrained model. Second, using Embedding layer of 
+For Bert Implementation, there are three models. First, using Bert Pretrained model. Second, using Embedding layer of 
 the Bert.
 
 The review body and review headline are two of the most important parts of an Amazon review, and that they provide a lot of information about the reviewer's sentiment, So the neural network was trained on the TF-IDF vectors of the review body and review headline.
