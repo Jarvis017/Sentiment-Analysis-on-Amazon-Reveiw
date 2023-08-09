@@ -1,5 +1,3 @@
-# Sentiment-Analysis-on-Amazon-Reveiw
-Sentiment Analysis on Amazon Review using Deep Learning and Fine-tuning Pretrained models
 
 ## About the project
 
